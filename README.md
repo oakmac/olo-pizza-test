@@ -18,3 +18,7 @@ using ClojureScript.
 
 [Leiningen]:http://leiningen.org
 [Node.js]:http://nodejs.org
+
+## License
+
+[MIT License](LICENSE.md)
